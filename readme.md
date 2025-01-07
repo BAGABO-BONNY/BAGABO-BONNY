@@ -13,15 +13,15 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Movie Website**
+- 🔭 I’m currently working on **penetration testing **
 
-- 🌱 I’m currently learning **React Native, Angular**
+- 🌱 I’m currently learning **React Native, flutter**
 
-- 💬 Ask me about **MERN stack, Tailwindcss**
+- 💬 Ask me about **MERN stack, Tailwindcss ,typescript**
 
 - 📫 How to reach me **bagabobonny544@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am an athlete**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
