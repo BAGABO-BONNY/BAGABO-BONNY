@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BAGABO-BONNY&theme=radical" alt="yourusername" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BAGABO-BONNY&theme=radical" alt="BAGABO BONNY" />
   </a>
 </p>
 
